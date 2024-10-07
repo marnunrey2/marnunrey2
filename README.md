@@ -1,9 +1,14 @@
-## Hi there, I'm Maria 👋
+# Hi there, I'm Maria <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-nu%C3%B1ez-reyes-59003423b/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2ae13a?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mariacucu1219)
+
 
 - 🔭 I’m currently working on personal projects
 - 💬 Ask me about TV shows
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied in 3 universities around the world
+- 📫 How to reach me: LinkedIn
 
 ## Stats📈
 [![Maria's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marnunrey2&show_icons=true&hide=stars&show=reviews,prs_merged_percentage&rank_icon=github&theme=dark#gh-dark-mode-only)](https://github.com/marnunrey2/github-readme-stats#gh-dark-mode-only)
