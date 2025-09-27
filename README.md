@@ -4,7 +4,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2ae13a?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mariacucu1219)
 
 
-- 🔭 I’m currently working on personal projects
+- 🔭 Working in Eptisa TI
 - 💬 Ask me about TV shows
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I studied in 3 universities around the world
