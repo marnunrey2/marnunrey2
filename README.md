@@ -22,6 +22,7 @@
 
 ## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marnunrey2&layout=donut&exclude_repo=Python-for-analytics,PIC-Identificacion-genero,Data-Driven-AI&langs_count=6)](https://github.com/marnunrey2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marnunrey2&layout=donut&exclude_repo=&langs_count=6)](https://github.com/marnunrey2)
+
 [![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=marnunrey2&show_icons=true&show=prs_merged,prs_merged_percentage&rank_icon=github&theme=default#gh-light-mode-only)](https://github.com/marnunrey2/github-readme-stats#gh-light-mode-only) 
 
